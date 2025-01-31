@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 /**
  * Represents an Invoice Calculator.
- * Confidence Affang,Naude Vlok
+ * @author Confidence Affang,Naude Vlok
  * @version 2.0
- * GitHub repository: "https://github.com/confidenceaffang/invoceapp.git"
+ * @see <a href="https://github.com/confidenceaffang/invoceapp.git">Github Repository</a>
  */
 public class InvoiceApp {
     /**
